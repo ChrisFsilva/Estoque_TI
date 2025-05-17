@@ -19,7 +19,7 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
 Descrição:
-Este projeto visa apresentar um crud utilizando Python e o SQlite3
+Este projeto visa criar um controle de estoque de equipamentos de TI, sendo possivel expandir a quantidade de informações inputadas baseadas na necessidades
 
 Tecnologias Utilizadas:
 Editor de código Linguagens SQLITE E LINGUAGEM PYTHON 
