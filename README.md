@@ -13,7 +13,6 @@ Tabela de conteúdos
      * [Funcionalidades](#Funcionalidades)
    * [Tecnologias](#-tecnologias)
    * [Autor](#-autor)
-   * [Licença](#-licença)
 <!--te-->
 
 
@@ -43,10 +42,10 @@ Editor de código Linguagens SQLITE E LINGUAGEM PYTHON
   <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://media.licdn.com/dms/image/D4D2DAQH4VuA7hxM1uw/profile-treasury-image-shrink_800_800/0/1704298974179?e=1706036400&v=beta&t=lgkdphgNnvWQiqKF-svpa_8oziyZEqA5-AEYfHvhqz8" />
 </p>
 
-Componentes Principais:
-VS Code: Para codificação
-Python 3.10: Linguagem utilizada
-SQlite 3: Para banco de dados
+<p> Componentes Principais: </p>
+<p> VS Code: Para codificação </p>
+<p> Python 3.10: Linguagem utilizada </p>
+<p> SQlite 3: Para banco de dados </p>
 
 ---
 
