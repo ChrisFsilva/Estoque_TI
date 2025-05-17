@@ -1,2 +1,97 @@
-# crud_python
-crud em python no sqlite3
+<h1 align="center">CRUD EM PYTHON USANDO SQLITE3</h1>			
+<br>
+<h4 align="center"> 🚀 Em estudo 🚀 </h4>
+	
+
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Funcionalidades](#Funcionalidades)
+   * [Tecnologias](#-tecnologias)
+   * [Autor](#-autor)
+   * [Licença](#-licença)
+<!--te-->
+
+
+## 💻 Sobre o projeto
+
+Descrição:
+Este projeto visa apresentar um crud utilizando Python e o SQlite3
+
+Tecnologias Utilizadas:
+Editor de código Linguagens SQLITE E LINGUAGEM PYTHON 
+
+ 
+---
+
+## 🎨 Layout
+
+---
+
+<a href="#">
+  <img alt="Automação do Onboard By Christopher Silva" src="https://img.shields.io/badge/Acessar%20Layout%20-aqui-%2304D361?style=flat-square">
+</a>
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://media.licdn.com/dms/image/D4D2DAQFhWADyr73FMA/profile-treasury-image-shrink_1920_1920/0/1704298991106?e=1706036400&v=beta&t=zrYm5i4Sa4wA7v-5fx5w2HYSv32kGRqRlR5zyR3Lc-w" />
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="https://www.linkedin.com/in/chris-f-silva/" title="#moments-automacao" src="https://media.licdn.com/dms/image/D4D2DAQH4VuA7hxM1uw/profile-treasury-image-shrink_800_800/0/1704298974179?e=1706036400&v=beta&t=lgkdphgNnvWQiqKF-svpa_8oziyZEqA5-AEYfHvhqz8" />
+</p>
+
+Componentes Principais:
+VS Code: Para codificação
+Python 3.10: Linguagem utilizada
+SQlite 3: Para banco de dados
+
+---
+
+## 🚀 Como executar o projeto
+
+---
+
+### Pré-requisitos
+
+- Sistema operacional Windows
+  
+### Instalação:
+
+---
+
+#### Funcionalidades
+```bash
+
+---:
+  ----
+
+```
+
+### Guia do Usuário:
+
+``` bash
+---:
+  ---
+```
+
+## 🛠 Tecnologias
+
+As seguintes tecnologias foram usadas na construção do projeto:
+
+-   **[Python](https://www.python.org/)** 
+-   **[SQlite 3](https://www.sqlite.org/)** 
+---
+
+## 🦸🏻‍♂️ Autor
+
+ <br>
+  <sub><b><p>Christopher Silva</p></b></sub></a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Christopher%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-f-silva//)](https://www.linkedin.com/in/chris-f-silva/) 
+[![Gmail Badge](https://img.shields.io/badge/-chrisspfc.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.rodrigues.soarees@gmail.com)](mailto:chrisspfc.silva@gmail.com)
+
+---
