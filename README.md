@@ -51,7 +51,7 @@ Editor de código Linguagens SQLITE E LINGUAGEM PYTHON
 
 ## 🚀 Como executar o projeto
 
----
+Baixar e executar o EXE do sistema
 
 ### Pré-requisitos
 
@@ -59,21 +59,30 @@ Editor de código Linguagens SQLITE E LINGUAGEM PYTHON
   
 ### Instalação:
 
----
+Baixar e executar o EXE do sistema
 
 #### Funcionalidades
 ```bash
 
----:
-  ----
+Adicionar equipamentos
+
+Modificar um equipamento
+
+Deletar um equipamento
 
 ```
 
 ### Guia do Usuário:
 
 ``` bash
----:
-  ---
+Adicionar equipamentos:
+  Aponte os detalhes do equipamento em estoque (Serial number/service tag, hostname, marca e modelo)
+
+Modificar um equipamento:
+  Através do serial number você irá alterar as demais informações do equipamento
+
+Deletar um equipamento:
+  Através do serial number você irá retirar um equipamento de seu estoque
 ```
 
 ## 🛠 Tecnologias
@@ -81,7 +90,8 @@ Editor de código Linguagens SQLITE E LINGUAGEM PYTHON
 As seguintes tecnologias foram usadas na construção do projeto:
 
 -   **[Python](https://www.python.org/)** 
--   **[SQlite 3](https://www.sqlite.org/)** 
+-   **[SQlite 3](https://www.sqlite.org/)**
+-   **[Crud](https://www.hashtagtreinamentos.com/crud-em-python)** 
 ---
 
 ## 🦸🏻‍♂️ Autor
