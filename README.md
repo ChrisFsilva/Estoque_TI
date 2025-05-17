@@ -1,4 +1,4 @@
-<h1 align="center">CRUD EM PYTHON USANDO SQLITE3</h1>			
+<h1 align="center">Sistema de controle de estoque de TI</h1>			
 <br>
 <h4 align="center"> 🚀 Em estudo 🚀 </h4>
 	
